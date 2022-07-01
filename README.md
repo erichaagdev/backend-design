@@ -1,6 +1,25 @@
-# backend-design
+# Backend Design
 
-## Access Restrictions Authorization)
+- About
+- Layers
+  - Domain (Models & Interactions)
+  - Application (Coordinators & Ports)
+  - Infrastructure (Frameworks & Adapters)
+
+<!--- RANDOM WIP NOTES BELOW
+
+## Layers
+
+### Domain
+
+Models are like the pieces in a board game.
+Interactions are like the rule book. 
+
+
+
+
+
+## Access Restrictions (Authorization)
 
 ### Multi-tenancy
 
